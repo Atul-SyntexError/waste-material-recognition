@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Local training and notebook outputs
+*.log
+*.tmp
+*.swp
